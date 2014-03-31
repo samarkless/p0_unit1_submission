@@ -43,7 +43,10 @@ def my_hash_sorting_method(source, thing_to_locate)
 end
 
 # Identify and describe the ruby method you implemented. 
-# 
+# # Identify and describe the ruby method you implemented. 
+# I want to create a sorting method that alphabetizes an array. I did this using .sort
+# I also want to create a sorting method that arranges the data in my hash by age. I did this
+# using .sort_by (starting with the youngest first).
 #
 
 
